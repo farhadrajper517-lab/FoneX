@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.FoneX" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/fonex_primary</item>
+        <item name="colorOnPrimary">@color/fonex_on_primary</item>
+        <item name="colorSecondaryContainer">@color/fonex_chip</item>
+        <item name="colorOnSecondaryContainer">@color/fonex_text</item>
+        <item name="colorSurface">@color/fonex_surface</item>
+        <item name="colorOnSurface">@color/fonex_text</item>
+        <item name="android:colorBackground">@color/fonex_bg</item>
+        <item name="android:statusBarColor">@color/fonex_bg</item>
+        <item name="android:navigationBarColor">@color/fonex_surface</item>
+        <item name="android:windowLightStatusBar">@bool/light_bars</item>
+        <item name="android:windowLightNavigationBar">@bool/light_bars</item>
+    </style>
+</resources>

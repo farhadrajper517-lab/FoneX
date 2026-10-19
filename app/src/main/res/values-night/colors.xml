@@ -1,0 +1,8 @@
+<resources>
+    <color name="fonex_primary">#4DB6AC</color>
+    <color name="fonex_on_primary">#00201D</color>
+    <color name="fonex_bg">#0F1514</color>
+    <color name="fonex_surface">#172120</color>
+    <color name="fonex_text">#E6F0EE</color>
+    <color name="fonex_chip">#254441</color>
+</resources>
